@@ -1,5 +1,5 @@
 # Algorithm and Data Structure Homework
-<span style="color: green"> ill try push the repos as soon as posible </span>
+<span style="color: green"> ill try push the files as soon as posible </span>
 
 Welcome to my repository for algorithm and data structure homework assignments! Each homework assignment is stored in a separate folder within this repository.
 
