@@ -6,13 +6,13 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 ## Homework Assignments
 
 1. Homework 1: Number of Good Pairs.
-   - [Link to Homework 1 Folder](Home_task_1.1/)
+   - [Link to Homework 1 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_1.1)](Home_task_1.1/)
    
 2. Homework 2: maximum possible sum.
-   - [Link to Homework 2 Folder](Home_task_1.2/)
+   - [Link to Homework 2 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_1.2)](Home_task_1.2/)
 
 3. Homework 3: Sum of All Odd Length Subarrays.
-   - [Link to Homework 3 Folder](Home_task_3/)
+   - [Link to Homework 3 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_3)](Home_task_3/)
 
 Feel free to explore each homework assignment folder for details and solutions.
 
@@ -20,7 +20,7 @@ Feel free to explore each homework assignment folder for details and solutions.
 ```bash 
 algorithm-data-structure-homework/
 │
-├── Home_task_1.1//
+├── Home_task_1.1/
 │   ├── README.md
 │   ├── code.py
 │
