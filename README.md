@@ -12,7 +12,7 @@ Welcome to my repository for algorithm and data structure homework assignments! 
    - [Link to Homework 2 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_1.2)](Home_task_1.2/)
 
 3. Homework 3: Sum of All Odd Length Subarrays.
-   - [Link to Homework 3 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_3)](Home_task_3/)
+   - [Link to Homework 3 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_1.3)](Home_task_1.3/)
 
 4. Week project 1: Prime Sum.
    - [Link to Homework 4 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Week_project_1)](Week_project_1/)
