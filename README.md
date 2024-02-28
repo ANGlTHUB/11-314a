@@ -16,12 +16,10 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 
 4. Week project 1: Prime Sum.
    - [Link to Homework 4 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Week_project_1)](Week_project_1/)
-Feel free to explore each homework assignment folder for details and solutions.
 
 5. Homework 2.2.3: Sorting the Sentence.
 
    - [Link to Homework 5 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_2.2.3)](Home_task_2.2.3/)
-Feel free to explore each homework assignment folder for details and solutions.
 
 ## Folder Structure
 ```bash 
