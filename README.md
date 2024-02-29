@@ -27,7 +27,7 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 * [x] Home_task_1.2
 * [x] Home_task_1.3
 * [x] Week_project_1
-* [ ] Home_task_2.2.3
+* [x] Home_task_2.2.3
 * [ ] Home_task_2.3.3
 * [ ] Week_project_2_Old
 * [ ] Week_project_2_New
