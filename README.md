@@ -21,6 +21,19 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 
    - [Link to Homework 5 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_2.2.3)](Home_task_2.2.3/)
 
+     
+## :compass: Roadmap
+
+* [x] Home_task_1.1
+* [x] Home_task_1.2
+* [x] Home_task_1.3
+* [x] Week_project_1
+* [ ] Home_task_2.2.3
+* [ ] Home_task_2.3.3
+* [ ] Week_project_2_Old
+* [ ] Week_project_2_New
+
+      
 ## Folder Structure
 ```bash 
 algorithm-data-structure-homework/
