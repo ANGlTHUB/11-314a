@@ -1,5 +1,4 @@
 # Algorithm and Data Structure Homework
-<span style="color: green"> ill try push the files as soon as posible </span>
 
 Welcome to my repository for algorithm and data structure homework assignments! Each homework assignment is stored in a separate folder within this repository.
 
@@ -22,7 +21,7 @@ Welcome to my repository for algorithm and data structure homework assignments! 
    - [Link to Homework 5 Folder](https://github.com/ANGlTHUB/11-314a/tree/main/Home_task_2.2.3)](Home_task_2.2.3/)
 
      
-## :compass: Roadmap
+## Roadmap
 
 * [x] Home_task_1.1
 * [x] Home_task_1.2
