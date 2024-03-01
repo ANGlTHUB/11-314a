@@ -10,7 +10,7 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 * [x] Week_project_1
 * [x] Home_task_2.2.3
 * [x] Home_task_2.3.3
-* [ ] Week_project_2_Old
+* [x] Week_project_2_Old
 * [ ] Week_project_2_New
 * [ ] Week_project_3
 * [ ] Week_project_4
