@@ -16,3 +16,4 @@ for i in range(2, x):
         break
 
 print(result)  # Output: [2, 2]
+#Good!

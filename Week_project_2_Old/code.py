@@ -24,3 +24,5 @@ target2 = -2
 #  testing
 output2 = countPairs(nums2, target2)
 print("nums2:", output2)
+
+#Seems correct!
