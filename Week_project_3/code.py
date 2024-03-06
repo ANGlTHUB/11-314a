@@ -24,3 +24,5 @@ print(longeSubsegment(A1, B1))
 A2 = [1, 0, 0, 1, 0, 1, 0, 1, 0, 1]
 B2 = 2
 print(longeSubsegment(A2, B2)) 
+
+#Correct
