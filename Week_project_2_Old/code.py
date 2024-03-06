@@ -7,7 +7,7 @@ def countPairs(nums, target):
     count = 0  
     n = len(nums)
 
-    # nitialize two pointers, left and right, pointing to the first and last elements of the sorted array.
+    # initialize two pointers, left and right, pointing to the first and last elements of the sorted array.
     left = 0  
     right = n - 1  
     
@@ -17,7 +17,7 @@ def countPairs(nums, target):
             left += 1
         else:
             right -= 1
-    
+        
     return count  
 
 # Exemples arrays
