@@ -2,6 +2,8 @@
 
 Welcome to my repository for algorithm and data structure homework assignments! Each homework assignment is stored in a separate folder within this repository.
 
+[![wakatime](https://wakatime.com/badge/github/ANGlTHUB/11-314a.svg)](https://wakatime.com/badge/github/ANGlTHUB/11-314a)
+
 ## Homework Assignments Roadmap
 
 * [x] Home_task_1.1
