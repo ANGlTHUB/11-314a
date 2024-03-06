@@ -4,7 +4,7 @@ This repository contains images of the "Sort Array with Squares!" problem soluti
 ### Algorithm: or i should calle it UML
 See the algorithm image for " Sort Array with Squares ! " solution.
 <br>
-<img hight="500" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/uml.png" width="500"/>
+<img hight="500" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/uml.png" width="500" hight="600"/>
 <br>
   
 ### Submission Overview:
