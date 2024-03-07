@@ -12,17 +12,3 @@ This repository contains images of the "Sort Array with Squares!" problem soluti
 <br>
 <img align="right" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/2024-03-06%2023-56-03.png" width="500">
 
-
-# Left Title
-
-![Left Image](https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/uml.png)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vehicula, libero et consequat commodo, dui mi malesuada urna, eu accumsan libero velit in mauris. 
-
-## Right Title
-
-<div style="float: right;">
-  
-  ![Right Image](https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/2024-03-06%2023-56-03.png)
-  
-</div>
