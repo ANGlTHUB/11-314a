@@ -7,8 +7,7 @@ This repository contains images of the "Sort Array with Squares!" problem soluti
 <img align="left"  src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/uml.png" width="400">
 
 </div>
-### Submission Overview:
 <p alighn="right" > </p>
 <br>
-<img align="right" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/2024-03-06%2023-56-03.png" width="400">
+<img align="right" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.6/2024-03-06%2023-56-03.png" width="600">
 
