@@ -12,6 +12,7 @@ Welcome to my repository for algorithm and data structure homework assignments! 
 * [x] Week_project_1
 * [x] Home_task_2.2.3
 * [x] Home_task_2.3.3
+* [x] Home_task_2.5.6
 * [x] Week_project_2_Old
 * [x] Week_project_2_New
 * [x] Week_project_3
@@ -43,6 +44,12 @@ algorithm-data-structure-homework/
 │   ├── code.py
 │
 ├── Home_task_2.3.3/
+│   ├── README.md
+│   ├── code.py
+│
+├── Home_task_2.5.6/
+│   ├── 2024-03-06 23-56-03.png
+│   ├── uml.png
 │   ├── README.md
 │   ├── code.py
 │
