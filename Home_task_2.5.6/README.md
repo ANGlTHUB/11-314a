@@ -1,5 +1,5 @@
 # Description:
-This repository contains images of the "Sort Array with Squares!" problem solution, including a screenshot of the Submission Overview and an image of the algorithm used.
+This repository contains images and code of the "Sort Array with Squares!" problem solution, including a screenshot of the Submission Overview and an image of the algorithm used.
 ## Algorithm or should calle it " U M L " & Submission Overview
 <p alighn="left" > See the algorithm or the UML IDK calle it as you like, image for " Sort Array with Squares !  <br> Check out the successful submission screenshot for " Sort Array with Squares ! " ." solution. </p>
 <br>
