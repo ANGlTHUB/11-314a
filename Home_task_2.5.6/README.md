@@ -1,5 +1,4 @@
-# Home task 2.5.6
-## Description:
+# Description:
 This repository contains images of the "Sort Array with Squares!" problem solution, including a screenshot of the Submission Overview and an image of the algorithm used.
 ## Algorithm or should calle it " U M L " & Submission Overview
 <p alighn="left" > See the algorithm image for " Sort Array with Squares !  <br> Check out the successful " Sort Array with Squares ! " submission screenshot." solution. </p>
