@@ -3,7 +3,7 @@ This code was originally written in the "InterviewBit" online compiler.
 It has been moved to my local IDE .
 Additional examples have been added to test its functionality.
 """
-
+import resource
 class Solution:
     def solve(self, A):
         n = len(A)
@@ -16,6 +16,7 @@ class Solution:
             else:
                 t[i] = A[right] * A[right]       #Insert right pointer element's square into result array.
                 right -= 1                       #Move right pointer to the center.
+        
         return t                                 
 
 #For testing 
@@ -26,7 +27,7 @@ print (solution.solve(input1))
 #Exemple 2
 input2 = [-5, -4, -2, 0, 1]
 print (solution.solve(input2))
-
-
-
-
+# Print memory usage
+mem_usage = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+print(f"Memory Usage: {mem_usage} KB")
+        
