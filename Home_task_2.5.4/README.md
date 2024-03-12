@@ -8,5 +8,5 @@ This repository contains images and code of the "Sort by Color !" problem soluti
 </div>
 <p alighn="right" > </p>
 <br>
-<img align="right" src="" width="500">
+<img align="right" src="https://github.com/ANGlTHUB/11-314a/blob/main/Home_task_2.5.4/algo_flowshart.png" width="500">
 
