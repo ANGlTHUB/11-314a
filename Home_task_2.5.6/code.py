@@ -31,3 +31,4 @@ print (solution.solve(input2))
 mem_usage = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
 print(f"Memory Usage: {mem_usage} KB")
         
+        
